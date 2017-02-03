@@ -9,7 +9,7 @@ Credits:
 	Base Template:
 		AJ @ajlkn
 		https://dribbble.com/ajlkn
-		html5up.net
+		html5up.net 
 
 	Icons:
 		Font Awesome (fortawesome.github.com/Font-Awesome)
