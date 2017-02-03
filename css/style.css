@@ -105,7 +105,8 @@
 		-ms-transform: translate3d(0,0,0);
 		transform: translate3d(0,0,0);
 		/* Set your background with this */
-		background: #348cb2 url("images/bg2.jpg") bottom left;
+		background: #dcebfe url("images/bg2.jpg") bottom left;
+		/* #348CB2 Blue Color */
 		background-repeat: repeat-x;
 		height: 100%;
 		left: 0;
