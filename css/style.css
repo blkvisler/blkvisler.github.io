@@ -9,7 +9,8 @@
 /* Basic */
 
 	body, input, select, textarea {
-		color: white;
+		color: #348CB2;
+		/*color: white;*/
 		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 15pt;
 		font-weight: 300 !important;
@@ -362,7 +363,8 @@
 
 					#header nav a:hover:before {
 						background-color: rgba(255, 255, 255, 0.175);
-						color: white;
+						/*color: white;*/
+						color: #348CB2;
 					}
 
 				#header nav a:active {
@@ -372,7 +374,8 @@
 
 					#header nav a:active:before {
 						background-color: rgba(255, 255, 255, 0.35);
-						color: white;
+						color: #348CB2;
+						/*color: white;*/
 					}
 
 				#header nav a span {
