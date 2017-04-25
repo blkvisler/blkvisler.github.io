@@ -1,6 +1,8 @@
 # blkvisler.github.io
 Personal Website
 
+![Ben Kvisler's Personal Website Screenshot](css/images/BenKvisler.png)
+
 Credits:
 
 	Base Template:
